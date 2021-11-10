@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "61f27dd5611de00c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5b50ef42dc41344",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python Basics.md",
+            "mode": "source"
+          }
+        },
+        "group": "f66bdd046276a308"
+      },
+      {
+        "id": "0bfcbd8ae16ecf85",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python Basics.md",
+            "mode": "preview"
+          }
+        },
+        "group": "f66bdd046276a308"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96aaf93e44263220",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc55683821db31c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15c75f398b7e6dcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "92273cea5b6ddb3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa90a62da5770495",
+    "type": "split",
+    "children": [
+      {
+        "id": "8261784972288096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b05aeadb0313694",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5b50ef42dc41344",
+  "lastOpenFiles": [
+    "Python Basics.md",
+    "Mysql.md",
+    "Untitled.md",
+    "Python.md"
+  ]
+}
