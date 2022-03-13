@@ -1,5 +1,0 @@
-### Grupos.
-
-Gerenciamento de grupos.
-
-

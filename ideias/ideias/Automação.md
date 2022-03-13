@@ -1,3 +1,0 @@
-### Automação
-
-[[Bots]]
